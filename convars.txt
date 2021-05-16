@@ -85,20 +85,20 @@ nb_avoid_interval 0.2
 // --------------------------------
 // Several fixes and improvements
 
-//pain_pills_decay_rate 0.27
+//pain_pills_decay_rate 0.27 // Pills decay rate fix
 //survivor_allow_crawling 1 // Allows you to crawl at small speed while incapped
-//survivor_crawl_speed 15
+//survivor_crawl_speed 15 // Define crawl speed
 //decalfrequency 1 // Removes meaningless spray cooldown just like GoldSrc games
-//cl_max_shadow_renderable_dist 0 // Fixes third person flashlight - Thanks to H.U.N.K
-//r_flashlightfov 90 // Increases Flashlight FOV for wide lights
+//cl_max_shadow_renderable_dist 0 // Fixes third person flashlight  - Thanks to H.U.N.K
+//r_flashlightfov 90 // Increases Flashlight FOV for wide lights - Thanks to H.U.N.K
 //elevator_movedelay 0 // Removes meaningless elevator delay 
 
 // Several fixes for infected
 
-//z_jockey_leap_range 100
-//z_leap_max_distance 100
-//z_leap_cooldown 0.5
-//z_lunge_cooldown 0.5
+//z_jockey_leap_range 100 // Jockey leap fix
+//z_leap_max_distance 100 // Jockey leap range fix
+//z_leap_cooldown 0.5 // Adjust jockey cooldown
+//z_lunge_cooldown 0.5 // Same as hunter, adjusts jockey cooldown
 
 // Removes vote cooldown but who cares
 
